@@ -6,7 +6,7 @@ More info: https://github.com/benjamine/jsondiffpatch
 
 ##Install
 ```bach
-meteor add risul:jsondiffpatch
+meteor add doedel:jsondiffpatch
 ```
 
 Usage
